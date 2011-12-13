@@ -18,6 +18,7 @@ jquery.utility.jsはHTML、CSSコーディングを補助するjQueryのプラ�
 
 ダウンロード
 --------------------------------------
+URL:[https://github.com/haldais/jquery.utility.js](https://github.com/haldais/jquery.utility.js)
 
 概要
 --------------------------------------
